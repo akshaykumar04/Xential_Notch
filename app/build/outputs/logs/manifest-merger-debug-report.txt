@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.INTERNET
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Akshay\.android\build-cache\15785414a4001f2b1fd17ea288d6b9ce83c869e3\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Akshay\.android\build-cache\15785414a4001f2b1fd17ea288d6b9ce83c869e3\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#com.android.vending.BILLING
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.android.billingclient:billing:1.0] C:\Users\Akshay\.android\build-cache\340621d8367f847f146f61650af63b39234fdb16\output\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:10:5-38:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Akshay\.android\build-cache\7a652c22c90a6c9f0a07550f12c0a02945fced9b\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Akshay\.android\build-cache\57df9054e338c99b672aff709cf0731a49e15465\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Akshay\.android\build-cache\315b1c1cb38482a1a9371d3e35401af4736ad512\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Akshay\.android\build-cache\9f00fb91831e9029365427f80956511da09ab410\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Akshay\.android\build-cache\15785414a4001f2b1fd17ea288d6b9ce83c869e3\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Akshay\.android\build-cache\92fa097bef24e6359dfea3ca69ef64ae8acaad7d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Akshay\.android\build-cache\f3562a90c3d1acfef26593fa1007bf54bafbc4c8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Akshay\.android\build-cache\a5cc1e3a667e91ee8e9e18574d4b57717b105d09\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Akshay\.android\build-cache\c789ba8515d10bf1422c75250e0af315f59dee3d\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Akshay\.android\build-cache\c14f499d98bb88862c7191d3c517f87039107cd7\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Akshay\.android\build-cache\4ff6d16226470ed95326290fdac11510873bb1b0\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Akshay\.android\build-cache\2ec358ab3f3e40f5fa325fac64205674316f6486\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Akshay\.android\build-cache\3e9ff4a877a46f0c0961d0be3e6127cc84fc1eda\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Akshay\.android\build-cache\f552cc0277516da6a832c064985bb735ee5e3bff\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Akshay\.android\build-cache\f0a1d37b0dc2f63fe17af5577c7dd3e3c525e638\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Akshay\.android\build-cache\aedc3cae87bfd246a2653900e2fd2fc58d1b2b26\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Akshay\.android\build-cache\eca4c7d27bc87b5ea12a4e0444fe239c39e34a53\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Akshay\.android\build-cache\02e46cc4a69b9eb0d780569168fc42d1a4074773\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.billingclient:billing:1.0] C:\Users\Akshay\.android\build-cache\340621d8367f847f146f61650af63b39234fdb16\output\AndroidManifest.xml:11:5-16:19
+	android:label
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:16:9-40
+meta-data#com.google.android.gms.version
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:17:9-19:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Akshay\.android\build-cache\4ff6d16226470ed95326290fdac11510873bb1b0\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:18:13-58
+activity#com.pixelbot.XentialNotch.First
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:screenOrientation
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:22:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:27:27-74
+service#com.pixelbot.XentialNotch.Essential.OverlayService
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:31:9-61
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:31:18-58
+service#com.pixelbot.XentialNotch.IPhoneX.OverlayServiceX
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:32:18-57
+activity#com.pixelbot.XentialNotch.Essential.MainActivity
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:34:9-60
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:34:19-57
+activity#com.pixelbot.XentialNotch.IPhoneX.IPhoneX
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:35:9-53
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:35:19-50
+activity#com.pixelbot.XentialNotch.AboutUs
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:36:9-45
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:36:19-42
+activity#com.pixelbot.XentialNotch.GetPro
+ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:37:9-44
+	android:name
+		ADDED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml:37:19-41
+uses-sdk
+INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Akshay\.android\build-cache\7a652c22c90a6c9f0a07550f12c0a02945fced9b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Akshay\.android\build-cache\57df9054e338c99b672aff709cf0731a49e15465\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Akshay\.android\build-cache\315b1c1cb38482a1a9371d3e35401af4736ad512\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Akshay\.android\build-cache\9f00fb91831e9029365427f80956511da09ab410\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\Akshay\.android\build-cache\92e4826b86667269ef9001fd0dc70008686052de\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Akshay\.android\build-cache\15785414a4001f2b1fd17ea288d6b9ce83c869e3\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Akshay\.android\build-cache\92fa097bef24e6359dfea3ca69ef64ae8acaad7d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Akshay\.android\build-cache\f3562a90c3d1acfef26593fa1007bf54bafbc4c8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Akshay\.android\build-cache\a5cc1e3a667e91ee8e9e18574d4b57717b105d09\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Akshay\.android\build-cache\c789ba8515d10bf1422c75250e0af315f59dee3d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Akshay\.android\build-cache\c14f499d98bb88862c7191d3c517f87039107cd7\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Akshay\.android\build-cache\4ff6d16226470ed95326290fdac11510873bb1b0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Akshay\.android\build-cache\2ec358ab3f3e40f5fa325fac64205674316f6486\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Akshay\.android\build-cache\3e9ff4a877a46f0c0961d0be3e6127cc84fc1eda\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Akshay\.android\build-cache\f552cc0277516da6a832c064985bb735ee5e3bff\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Akshay\.android\build-cache\f0a1d37b0dc2f63fe17af5577c7dd3e3c525e638\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Akshay\.android\build-cache\aedc3cae87bfd246a2653900e2fd2fc58d1b2b26\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Akshay\.android\build-cache\eca4c7d27bc87b5ea12a4e0444fe239c39e34a53\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Akshay\.android\build-cache\02e46cc4a69b9eb0d780569168fc42d1a4074773\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.billingclient:billing:1.0] C:\Users\Akshay\.android\build-cache\340621d8367f847f146f61650af63b39234fdb16\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Akshay\.android\build-cache\7a652c22c90a6c9f0a07550f12c0a02945fced9b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Akshay\AndroidProjects\XentialNotch\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Akshay\.android\build-cache\7a652c22c90a6c9f0a07550f12c0a02945fced9b\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Akshay\.android\build-cache\57df9054e338c99b672aff709cf0731a49e15465\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Akshay\.android\build-cache\315b1c1cb38482a1a9371d3e35401af4736ad512\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Akshay\.android\build-cache\2ec358ab3f3e40f5fa325fac64205674316f6486\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Akshay\.android\build-cache\3e9ff4a877a46f0c0961d0be3e6127cc84fc1eda\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Akshay\.android\build-cache\f552cc0277516da6a832c064985bb735ee5e3bff\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Akshay\.android\build-cache\f0a1d37b0dc2f63fe17af5577c7dd3e3c525e638\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Akshay\.android\build-cache\aedc3cae87bfd246a2653900e2fd2fc58d1b2b26\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Akshay\.android\build-cache\eca4c7d27bc87b5ea12a4e0444fe239c39e34a53\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Akshay\.android\build-cache\7a652c22c90a6c9f0a07550f12c0a02945fced9b\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Akshay\.android\build-cache\7a652c22c90a6c9f0a07550f12c0a02945fced9b\output\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Akshay\.android\build-cache\15785414a4001f2b1fd17ea288d6b9ce83c869e3\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Akshay\.android\build-cache\15785414a4001f2b1fd17ea288d6b9ce83c869e3\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Akshay\.android\build-cache\15785414a4001f2b1fd17ea288d6b9ce83c869e3\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Akshay\.android\build-cache\15785414a4001f2b1fd17ea288d6b9ce83c869e3\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Akshay\.android\build-cache\c789ba8515d10bf1422c75250e0af315f59dee3d\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Akshay\.android\build-cache\c789ba8515d10bf1422c75250e0af315f59dee3d\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Akshay\.android\build-cache\c789ba8515d10bf1422c75250e0af315f59dee3d\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Akshay\.android\build-cache\c789ba8515d10bf1422c75250e0af315f59dee3d\output\AndroidManifest.xml:19:19-85
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Akshay\.android\build-cache\02e46cc4a69b9eb0d780569168fc42d1a4074773\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Akshay\.android\build-cache\02e46cc4a69b9eb0d780569168fc42d1a4074773\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Akshay\.android\build-cache\02e46cc4a69b9eb0d780569168fc42d1a4074773\output\AndroidManifest.xml:26:13-58
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:1.0] C:\Users\Akshay\.android\build-cache\340621d8367f847f146f61650af63b39234fdb16\output\AndroidManifest.xml:12:9-15:75
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:1.0] C:\Users\Akshay\.android\build-cache\340621d8367f847f146f61650af63b39234fdb16\output\AndroidManifest.xml:14:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:1.0] C:\Users\Akshay\.android\build-cache\340621d8367f847f146f61650af63b39234fdb16\output\AndroidManifest.xml:15:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:1.0] C:\Users\Akshay\.android\build-cache\340621d8367f847f146f61650af63b39234fdb16\output\AndroidManifest.xml:13:13-78

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\XentialNotch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_background.png",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\XentialNotch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\XentialNotch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_thumb_up_white_24dp.png",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\XentialNotch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_thumb_up_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\XentialNotch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_foreground.png",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\XentialNotch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\XentialNotch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\XentialNotch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

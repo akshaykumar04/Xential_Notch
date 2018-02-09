@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Xential</string>
+    <string name="banner_home_footer">ca-app-pub-3598905199660317/1518458829</string>
+    <string name="interstitial_full_screen">ca-app-pub-3598905199660317/1762001409</string>
+    <string name="test_device_id">654C0A12D3CAECD60B5E45D1B80DA1C4</string>
+    <string name="notch_on">Toggle Switch to turn On/Off Notch.</string>
+    <string name="main_menu">Ever wanted to know how its feels to have a Notch???</string>
+    <string name="select">Click the Phone to select the type of Notch!</string>
+</resources>
